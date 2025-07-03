@@ -1,4 +1,4 @@
-# NQAOA
+# Noisy QAOA
 Noisy Quantum Approximation Optimization Algorithm for Solving MaxCut Problem
 
 ## Background
