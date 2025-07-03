@@ -15,6 +15,6 @@ Adam and Adagrad optimizers show the best performance in noisy environments.
 Approximation ratio (AR) increases with the number of nodes (n).
 AR exhibits a wave-like pattern as the number of edges (e) increases, with ARnoise ≤ ARideal in all cases.
 ## Significance
-First to systematically integrate multiple quantum noise types into the QAOA framework, quantitatively analyzing the synergistic effects of noise types, optimizer performance, and graph structures.
+Systematically integrate multiple quantum noise types into the QAOA framework, quantitatively analyzing the synergistic effects of noise types, optimizer performance, and graph structures.
 Establishes linear/exponential theoretical bounds for AR decay with respect to noise coefficients through theoretical derivations and numerical simulations.
 Provides critical references for designing noise-robust quantum optimization algorithms on NISQ devices.
