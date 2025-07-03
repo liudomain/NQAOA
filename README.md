@@ -9,7 +9,7 @@ Proposes the Noisy Quantum Approximate Optimization Algorithm (NQAOA) and analyz
 Compares the maximum (max AR) and average (mean AR) approximation ratios of various graphs under different optimization strategies and noise conditions.
 Evaluates the impacts of circuit depth, nodes, edges, and noise coefficients on Maximum Cut (MaxCut).
 ## Experimental Results
-### Added experimental verification on MindQuantum, Google, PyQPanda3
+### Added experimental verification on MindQuantum, Google(Not uploaded), PyQPanda3
 Noise reduces the probability of finding optimal MaxCut solutions and makes the algorithm more easily trapped in suboptimal solutions.
 Adam and Adagrad optimizers show the best performance in noisy environments.
 Approximation ratio (AR) increases with the number of nodes (n).
