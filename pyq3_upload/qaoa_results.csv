@@ -1,0 +1,17 @@
+graph_type,graph_nodes,graph_edges,qaoa_layers,shots,best_solution,solution_cut,solution_probability,max_cut,approximation_ratio,execution_time,platform,device,task_id,noise_model,timestamp
+complete,3,3,1,1000,101,2,0.136,2,1.0,0.013999223709106445,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:22
+complete,3,3,1,1000,101,2,0.14,2,1.0,0.09800028800964355,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:22
+complete,4,6,1,1000,1111,0,0.079,4,0.0,0.009998559951782227,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:22
+complete,4,6,1,1000,0011,4,0.074,4,1.0,0.15761947631835938,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:22
+complete,5,10,1,1000,00011,6,0.042,6,1.0,0.01099848747253418,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:22
+complete,5,10,1,1000,00101,6,0.041,6,1.0,0.2409987449645996,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:22
+complete,6,15,1,1000,010011,9,0.025,9,1.0,0.012000322341918945,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:22
+complete,6,15,1,1000,111100,8,0.026,9,0.8888888888888888,0.33446669578552246,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:23
+complete,7,21,1,1000,0011000,10,0.017,12,0.8333333333333334,0.011995792388916016,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:23
+complete,7,21,1,1000,0100100,10,0.013,12,0.8333333333333334,0.451061487197876,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:23
+complete,8,28,1,1000,10101001,16,0.01,16,1.0,0.013997316360473633,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:23
+complete,8,28,1,1000,11011101,12,0.01,16,0.75,0.6015625,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:24
+complete,9,36,1,1000,011000001,18,0.007,20,0.9,0.014997243881225586,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:24
+complete,9,36,1,1000,000100010,14,0.007,20,0.7,0.7886483669281006,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:24
+complete,10,45,1,1000,0101111001,24,0.005,25,0.96,0.014997720718383789,simulator,CPUQVM,Not Applicable,Null,2025-07-01 17:43:24
+complete,10,45,1,1000,1111100011,21,0.006,25,0.84,1.052699327468872,simulator,CPUQVM,Not Applicable,"{'depolarizing_rate': 0.02, 'bitflip_rate': 0.01}",2025-07-01 17:43:25
